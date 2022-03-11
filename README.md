@@ -1,6 +1,6 @@
 ## Matrix Clients
 
-Table of contents
+### Table of contents
 * [Web](https://github.com/mizzunet/matrix-clients#web)
 * [Linux](https://github.com/mizzunet/matrix-clients#linux)
 * [macOS](https://github.com/mizzunet/matrix-clients#macos)
