@@ -1,5 +1,13 @@
 ## Matrix Clients
 
+Table of contents
+* [Web](https://github.com/mizzunet/matrix-clients#web)
+* [Linux](https://github.com/mizzunet/matrix-clients#linux)
+* [macOS](https://github.com/mizzunet/matrix-clients#macos)
+* [CLI](https://github.com/mizzunet/matrix-clients#cli)
+* [Android](https://github.com/mizzunet/matrix-clients#android)
+* [iOS](https://github.com/mizzunet/matrix-clients#ios)
+
 #### Web
 
 * [[chat]](https://chat.adb.sh/)
