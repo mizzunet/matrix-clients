@@ -1,7 +1,7 @@
-# Matrix Clients
+## Matrix Clients
 
-## Web
-## Desktop
-## CLI
-## Android
-## iOS
+### Web
+### Desktop
+### CLI
+### Android
+### iOS
