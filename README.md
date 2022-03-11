@@ -3,10 +3,10 @@
 ### Table of contents
 * [Web](https://github.com/mizzunet/matrix-clients#web)
 * [Linux](https://github.com/mizzunet/matrix-clients#linux)
-* [macOS](https://github.com/mizzunet/matrix-clients#macos)
-* [CLI](https://github.com/mizzunet/matrix-clients#cli)
 * [Android](https://github.com/mizzunet/matrix-clients#android)
 * [iOS](https://github.com/mizzunet/matrix-clients#ios)
+* [CLI](https://github.com/mizzunet/matrix-clients#cli)
+* [macOS](https://github.com/mizzunet/matrix-clients#macos)
 
 #### Web
 
@@ -35,16 +35,6 @@
 * [SchildiChat](https://schildi.chat/desktop/)
 * [Spectral](https://flathub.org/apps/details/org.eu.encom.spectral)
 
-#### macOS
-* [Seaglass](https://github.com/neilalexander/seaglass)
-#### CLI
-
-* [gomuks](https://github.com/tulir/gomuks)
-* [matrixcli](https://github.com/saadnpq/matrixcli)
-* [mm](https://git.lost.host/meutraa/mm)
-* [matrix-commander](https://github.com/8go/matrix-commander)
-* [weechat-matrix](https://github.com/poljar/weechat-matrix)
-
 #### Android
 
 * [Ditto](https://play.google.com/store/apps/details?id=chat.ditto.and)
@@ -63,3 +53,13 @@
 * [Nio](https://testflight.apple.com/join/KlXr3kKz)
 * [Syphon](https://apps.apple.com/us/app/syphon/id1496285352)
 
+#### CLI
+
+* [gomuks](https://github.com/tulir/gomuks)
+* [matrixcli](https://github.com/saadnpq/matrixcli)
+* [mm](https://git.lost.host/meutraa/mm)
+* [matrix-commander](https://github.com/8go/matrix-commander)
+* [weechat-matrix](https://github.com/poljar/weechat-matrix)
+
+#### macOS
+* [Seaglass](https://github.com/neilalexander/seaglass)
