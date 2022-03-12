@@ -1,6 +1,6 @@
-## Matrix Clients
+# Matrix Clients
 
-### Table of contents
+## Table of contents
 * [Web](https://github.com/mizzunet/matrix-clients#web)
 * [Linux](https://github.com/mizzunet/matrix-clients#linux)
 * [Android](https://github.com/mizzunet/matrix-clients#android)
@@ -8,7 +8,7 @@
 * [CLI](https://github.com/mizzunet/matrix-clients#cli)
 * [macOS](https://github.com/mizzunet/matrix-clients#macos)
 
-#### Web
+### Web
 
 * [[chat]](https://chat.adb.sh/)
 * [Cinny](https://cinny.in/)
@@ -19,7 +19,7 @@
 * [SchildiChat](https://app.schildi.chat/)
 * [Scylla](https://scylla.danilafe.com/)
 
-#### Linux 
+### Linux 
 
 * [FluffyChat](https://flathub.org/apps/details/im.fluffychat.Fluffychat)
 * [Fractal](https://flathub.org/repo/appstream/org.gnome.Fractal.flatpakref)
@@ -35,7 +35,7 @@
 * [SchildiChat](https://schildi.chat/desktop/)
 * [Spectral](https://flathub.org/apps/details/org.eu.encom.spectral)
 
-#### Android
+### Android
 
 * [Ditto](https://play.google.com/store/apps/details?id=chat.ditto.and)
 * [FluffyChat](https://f-droid.org/de/packages/chat.fluffy.fluffychat/)
@@ -44,7 +44,7 @@
 * [SchildiChat](https://schildi.chat/android/)
 * [Syphon](https://f-droid.org/packages/org.tether.tether)
 
-#### iOS
+### iOS
 
 * [Ditto](https://testflight.apple.com/join/9M0ERlKd)
 * [FluffyChat](https://apps.apple.com/app/fluffychat/id1551469600)
@@ -53,7 +53,7 @@
 * [Nio](https://testflight.apple.com/join/KlXr3kKz)
 * [Syphon](https://apps.apple.com/us/app/syphon/id1496285352)
 
-#### CLI
+### CLI
 
 * [gomuks](https://github.com/tulir/gomuks)
 * [matrixcli](https://github.com/saadnpq/matrixcli)
@@ -61,5 +61,6 @@
 * [matrix-commander](https://github.com/8go/matrix-commander)
 * [weechat-matrix](https://github.com/poljar/weechat-matrix)
 
-#### macOS
+### macOS
+
 * [Seaglass](https://github.com/neilalexander/seaglass)
