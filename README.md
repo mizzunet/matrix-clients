@@ -59,6 +59,9 @@
 * [matrixcli](https://github.com/saadnpq/matrixcli)
 * [mm](https://git.lost.host/meutraa/mm)
 * [matrix-commander](https://github.com/8go/matrix-commander)
+* [matrix-client-rs](https://github.com/Arnavion/matrix-client-rs)
+* [matrix-tui](https://github.com/git-bruh/matrix-tui)
+* [rumatui](https://github.com/DevinR528/rumatui)
 * [weechat-matrix](https://github.com/poljar/weechat-matrix)
 
 ### macOS
